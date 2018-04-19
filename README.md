@@ -1,5 +1,5 @@
 # automation-scripts
-A set of bash scripts (automater) written to automate my projects mundane tasks.
+A set of bash scripts (automater-v1.sh & automater-v2.sh) written to automate my projects mundane tasks.
 
 These scripts were written to automate tasks which would have required days if not weeks if it were to be done manually.
 
