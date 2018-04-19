@@ -1,5 +1,5 @@
-# linux-automation-scripts
-A set of bash scripts written to automate my projects mundane tasks.
+# automation-scripts
+A set of bash scripts (automater) written to automate my projects mundane tasks.
 
 These scripts were written to automate tasks which would have required days if not weeks if it were to be done manually.
 
